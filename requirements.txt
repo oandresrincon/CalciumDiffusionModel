@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+fontTools
+pandas
+xlrd
+openpyxl
+fontTools
