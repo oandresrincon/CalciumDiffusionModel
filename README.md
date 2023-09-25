@@ -80,16 +80,17 @@ Description: Generate the figures and data obtained with the single compartment 
 
 Outputs:
 
-outputs\caatps2a.pdf: Figure of [CaATP] during a single AP in fiber type IIA with the SCM.
-outputs\catns2a.pdf: Figure of [CaTn] during a single AP in fiber type IIA with the SCM.
-outputs\cadyes2a.pdf: Figure of [CaDye] during a single AP in fiber type IIA with the SCM.
-outputs\capvs2a.pdf: Figure of [CaPv] during a single AP in fiber type IIA with the SCM.
-outputs\casercas2a.pdf: Figure of [CaSERCA] during a single AP in fiber type IIA with the SCM.
-outputs\cancxs2a.pdf: Figure of [CaNCX] during a single AP in fiber type IIA with the SCM.
-outputs\camitos2a.pdf: Figure of [Ca2+]mito during a single AP in fiber type IIA with the SCM.
-outputs\cats2a.pdf: Figure of [Ca2+]total during a single AP in fiber type IIA with the SCM.
-outputs\jrel2a.pdf: Figure of release rate of Ca2+ during a single AP in fiber type IIA with the SCM.
-outputs\cs2a.xls: Table with the data that generate previous figures.
+- outputs\caatps2a.pdf: Figure of [CaATP] during a single AP in fiber type IIA with the SCM.
+- outputs\catns2a.pdf: Figure of [CaTn] during a single AP in fiber type IIA with the SCM.
+- outputs\cadyes2a.pdf: Figure of [CaDye] during a single AP in fiber type IIA with the SCM.
+- outputs\capvs2a.pdf: Figure of [CaPv] during a single AP in fiber type IIA with the SCM.
+- outputs\casercas2a.pdf: Figure of [CaSERCA] during a single AP in fiber type IIA with the SCM.
+- outputs\cancxs2a.pdf: Figure of [CaNCX] during a single AP in fiber type IIA with the SCM.
+- outputs\camitos2a.pdf: Figure of [Ca2+]mito during a single AP in fiber type IIA with the SCM.
+- outputs\cats2a.pdf: Figure of [Ca2+]total during a single AP in fiber type IIA with the SCM.
+- outputs\jrel2a.pdf: Figure of release rate of Ca2+ during a single AP in fiber type IIA with the SCM.
+- outputs\cs2a.xls: Table with the data that generate previous figures.
+
 Program 6: SCMIIX.py
 
 Description: Generate the figures and data obtained with the single compartment model in fiber type IIX.
