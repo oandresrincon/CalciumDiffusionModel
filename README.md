@@ -43,19 +43,19 @@ Description: Equations used in the model.
 
 Equations:
 
-Eq_Release (Release of Ca+2 equations)
-Eqs_ATP (Adenosine triphosphate equations)
-Eqs_Tn (Troponin equations)
-Eqs_Dye (Dye equations)
-Eqs_Pv (Parvalbumin equations)
-Eqs_SERCA (Sarco/endoplasmic reticulum Ca2+-ATPase equations)
-Eqs_B (Mitochondrial buffers equations)
-Eqs_CSQ (Calsequestrin equations)
-Eqs_NCX (Na+/Ca2+ exchanger equations)
-Eqs_SOCE (Store-operated Ca2+ entry equations)
-Eqs_NCE (MITO Na+/Ca2+ exchanger equations)
-Eqs_MCU (MITO Ca2+ uniporter equations)
-Eqs_MITO (MITO equations, including Eqs_B, Eqs_NCE, and Eqs_MCU)
+- Eq_Release (Release of Ca+2 equations)
+- Eqs_ATP (Adenosine triphosphate equations)
+- Eqs_Tn (Troponin equations)
+- Eqs_Dye (Dye equations)
+- Eqs_Pv (Parvalbumin equations)
+- Eqs_SERCA (Sarco/endoplasmic reticulum Ca2+-ATPase equations)
+- Eqs_B (Mitochondrial buffers equations)
+- Eqs_CSQ (Calsequestrin equations)
+- Eqs_NCX (Na+/Ca2+ exchanger equations)
+- Eqs_SOCE (Store-operated Ca2+ entry equations)
+- Eqs_NCE (MITO Na+/Ca2+ exchanger equations)
+- Eqs_MCU (MITO Ca2+ uniporter equations)
+- Eqs_MITO (MITO equations, including Eqs_B, Eqs_NCE, and Eqs_MCU)
 Eqs_Diff (Diffusion equations)
 Program 4: SCMI.py
 
