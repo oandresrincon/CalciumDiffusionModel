@@ -25,12 +25,12 @@ Description: Load fluorescence signals and convert them to [Ca+2].
 
 Inputs:
 
-inputs\f1.xls: Fluorescence in single AP fiber type I.
-inputs\f2a.xls: Fluorescence in single AP fiber type IIA.
-inputs\f2x.xls: Fluorescence in single AP fiber type IIX.
-inputs\f2b.xls: Fluorescence in single AP fiber type IIB.
-inputs\f1t.xls: Fluorescence in tetanic AP fiber type I.
-inputs\f2bt.xls: Fluorescence in tetanic AP fiber type IIB.
+- inputs\f1.xls: Fluorescence in single AP fiber type I.
+- inputs\f2a.xls: Fluorescence in single AP fiber type IIA.
+- inputs\f2x.xls: Fluorescence in single AP fiber type IIX.
+- inputs\f2b.xls: Fluorescence in single AP fiber type IIB.
+- inputs\f1t.xls: Fluorescence in tetanic AP fiber type I.
+- inputs\f2bt.xls: Fluorescence in tetanic AP fiber type IIB.
 Outputs:
 
 figures\cae.pdf: Figure of experimental [Ca+2] during a single AP.
