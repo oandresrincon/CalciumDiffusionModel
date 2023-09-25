@@ -1,6 +1,5 @@
-# CalciumDiffusionModel
+# Calcium Diffusion Model
 
-# Ca_Dynamics Programs
 
 This repository contains a collection of programs related to calcium dynamics modeling in different fiber types. The following sections provide information on how to run the programs and details about each program's functionality and outputs.
 
