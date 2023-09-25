@@ -97,10 +97,10 @@ Description: Generate the figures and data obtained with the single compartment 
 
 Outputs:
 
-outputs\caatps2x.pdf: Figure of [CaATP] during a single AP in fiber type IIX with the SCM.
-outputs\catns2x.pdf: Figure of [CaTn] during a single AP in fiber type IIX with the SCM.
-outputs\cadyes2x.pdf: Figure of [CaDye] during a single AP in fiber type IIX with the SCM.
-outputs\capvs2x.pdf: Figure of [CaPv] during a single AP in fiber type IIX with the SCM.
-outputs\casercas2x.pdf: Figure of [CaSERCA] during a single AP in fiber type IIX with the SCM.
-`outputs\cancxs2x.pdf
+- outputs\caatps2x.pdf: Figure of [CaATP] during a single AP in fiber type IIX with the SCM.
+- outputs\catns2x.pdf: Figure of [CaTn] during a single AP in fiber type IIX with the SCM.
+- outputs\cadyes2x.pdf: Figure of [CaDye] during a single AP in fiber type IIX with the SCM.
+- outputs\capvs2x.pdf: Figure of [CaPv] during a single AP in fiber type IIX with the SCM.
+- outputs\casercas2x.pdf: Figure of [CaSERCA] during a single AP in fiber type IIX with the SCM.
+- outputs\cancxs2x.pdf
 
