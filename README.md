@@ -64,16 +64,16 @@ Description: Generate the figures and data obtained with the single compartment 
 
 Outputs:
 
-outputs\caatps1.pdf: Figure of [CaATP] during a single AP in fiber type I with the SCM.
-outputs\catns1.pdf: Figure of [CaTn] during a single AP in fiber type I with the SCM.
-outputs\cadyes1.pdf: Figure of [CaDye] during a single AP in fiber type I with the SCM.
-outputs\capvs1.pdf: Figure of [CaPv] during a single AP in fiber type I with the SCM.
-outputs\casercas1.pdf: Figure of [CaSERCA] during a single AP in fiber type I with the SCM.
-outputs\cancxs1.pdf: Figure of [CaNCX] during a single AP in fiber type I with the SCM.
-outputs\camitos1.pdf: Figure of [Ca2+]mito during a single AP in fiber type I with the SCM.
-outputs\cats1.pdf: Figure of [Ca2+]total during a single AP in fiber type I with the SCM.
-outputs\jrel1.pdf: Figure of release rate of Ca2+ during a single AP in fiber type I with the SCM.
-outputs\cs1.xls: Table with the data that generate previous figures.
+- outputs\caatps1.pdf: Figure of [CaATP] during a single AP in fiber type I with the SCM.
+- outputs\catns1.pdf: Figure of [CaTn] during a single AP in fiber type I with the SCM.
+- outputs\cadyes1.pdf: Figure of [CaDye] during a single AP in fiber type I with the SCM.
+- outputs\capvs1.pdf: Figure of [CaPv] during a single AP in fiber type I with the SCM.
+- outputs\casercas1.pdf: Figure of [CaSERCA] during a single AP in fiber type I with the SCM.
+- outputs\cancxs1.pdf: Figure of [CaNCX] during a single AP in fiber type I with the SCM.
+- outputs\camitos1.pdf: Figure of [Ca2+]mito during a single AP in fiber type I with the SCM.
+- outputs\cats1.pdf: Figure of [Ca2+]total during a single AP in fiber type I with the SCM.
+- outputs\jrel1.pdf: Figure of release rate of Ca2+ during a single AP in fiber type I with the SCM.
+- outputs\cs1.xls: Table with the data that generate previous figures.
 Program 5: SCMIIA.py
 
 Description: Generate the figures and data obtained with the single compartment model in fiber type IIA.
